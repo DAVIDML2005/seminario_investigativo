@@ -11,8 +11,8 @@ El proyecto fue desarrollado durante el curso de **Seminario Investigativo** de 
 
 ## Colaboradores
 
-* David Marquez
-* Cristian Linero
+* David Ricardo Marquez Luna (https://github.com/DAVIDML2005)
+* Cristian Camilo Linero Cantillo (https://github.com/cristianclc)
 
 ## Objetivos
 
