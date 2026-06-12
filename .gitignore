@@ -37,13 +37,3 @@ Thumbs.db
 *.log
 *.out
 *.err
-
-# Archivos grandes o temporales
-*.csv
-*.xlsx
-*.geojson
-*.json
-*.zip
-*.tar
-*.gz
-*.rar
